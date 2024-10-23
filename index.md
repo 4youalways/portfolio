@@ -1,5 +1,6 @@
 # Presenter Information
 
+![presenter](https://github.com/4youalways/portfolio/blob/gh-pages/assets/presenter.jpg)
 
 # Bio
 
