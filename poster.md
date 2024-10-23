@@ -1,1 +1,1 @@
-![digital poster](assets/poster.pdf)
+![digital poster](https://github.com/4youalways/portfolio/blob/gh-pages/assets/poster.jpg)
