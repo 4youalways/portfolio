@@ -7,5 +7,5 @@
 
 
 
-[Link to digital Poster](poster.md)
-[Link to Abstract](abstract.md)
+  - [Link to digital Poster](poster.md)
+  - [Link to Abstract](abstract.md)
