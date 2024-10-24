@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 Abstracts provide a summary and preview of an academic work, such an article, research proposal, or
 conference presentation. Abstracts are the first part of an article that readers will see: They set
 expectations and help readers understand what will come next. All abstracts used in this handout are
