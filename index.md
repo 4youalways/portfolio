@@ -1,4 +1,3 @@
-# Presenter Information
 {% include navigation.html %}
 {{ site.layout }}
 
