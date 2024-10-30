@@ -1,5 +1,6 @@
 # Presenter Information
 {% include navigation.html %}
+{{ site.layout }}
 
 ## Description
 {{ site.description }}
