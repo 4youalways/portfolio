@@ -1,26 +1,14 @@
----
-layout: defaults
-title: Home
----
-
 {% include navigation.html %}
 
 {{ site.layout }}
 
-## Description
-{{ site.description }}
+## Poster presenter
 
-![presenter](./assets/presenter.jpg)
-
-# Bio
-
-
-
-
+{{ site.kleb_image }}
 
   - [Link to digital Poster](poster.md)
   - [Link to Abstract](abstract.md)
 
-## Contact us
+## Contacts
 
 - Email: [{{ site.email }}](mailto:{{ site.email }})
