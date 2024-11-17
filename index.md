@@ -2,7 +2,7 @@
 
 ## Poster presenter
 
-{{ site.kleb_image }}
+![](./images/zuza.webp)
 
   - [Link to digital Poster](poster.md)
   - [Link to Abstract](abstract.md)
