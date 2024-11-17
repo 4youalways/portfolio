@@ -1,7 +1,5 @@
 {% include navigation.html %}
 
-{{ site.layout }}
-
 ## Poster presenter
 
 {{ site.kleb_image }}
