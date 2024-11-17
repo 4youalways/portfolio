@@ -1,3 +1,3 @@
 {% include navigation.html %}
 
-{{ site.poster }}
+![Poster]({{ site.poster }})
