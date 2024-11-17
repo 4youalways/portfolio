@@ -1,6 +1,3 @@
----
-title: "Poster"
----
 
 {% include navigation.html %}
 
