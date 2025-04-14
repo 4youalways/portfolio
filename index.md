@@ -11,4 +11,4 @@
 
 - Email: [{{ site.email }}](mailto:{{ site.email }})
 - WhatsApp: [{{site.phone}}]
-- Phone: {% include navigation.html %
+- Phone: {% include phone_number.html %
