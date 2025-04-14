@@ -1,5 +1,5 @@
 
 {% include navigation.html %}
-{{site.poster}}
+[{{site.poster}}]
 
 ![]( ./images/Africa2025_52_Zuza_poster.jpg)
