@@ -10,5 +10,5 @@
 ## Contacts
 
 - Email: [{{ site.email }}](mailto:{{ site.email }})
-- WhatsApp: [{{site.phone}}]
-- Phone: {% include phone_number.html %}
+- WhatsApp: {{site.phone}}
+
