@@ -10,3 +10,4 @@
 ## Contacts
 
 - Email: [{{ site.email }}](mailto:{{ site.email }})
+- WhatsAPP: +265 884 51 26 51
