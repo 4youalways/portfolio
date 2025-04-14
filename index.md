@@ -10,4 +10,4 @@
 ## Contacts
 
 - Email: [{{ site.email }}](mailto:{{ site.email }})
-- WhatsApp: +265 884 51 26 51
+- WhatsApp: <a href="+265884512651"> +265 884 51 26 51 </a>
